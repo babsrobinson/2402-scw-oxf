@@ -3,3 +3,4 @@ second line
 THIRD LINE
 fourth line
 one more line
+the last line in the local repository
